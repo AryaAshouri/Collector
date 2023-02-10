@@ -10,7 +10,7 @@ This is my discord bot which has a really good option and that's nothing except 
 
 <br>
 <p align="center">
-    <img src="https://github.com/AryaAshouri/Pollution_Bot/blob/master/Picture/Poster%201.png">
+    <img src="https://github.com/AryaAshouri/Collector/blob/master/Picture/Poster%201.png">
 </p>
 <br>
 
@@ -27,7 +27,7 @@ Actually, Web scraping is often the only way we can access data. There is a lot 
 
 <br>
 <p align="center">
-    <img src="https://github.com/AryaAshouri/Pollution_Bot/blob/master/Picture/Poster%202.svg">
+    <img src="https://github.com/AryaAshouri/Collector/blob/master/Picture/Poster%202.svg">
 </p>
 <br>
 
